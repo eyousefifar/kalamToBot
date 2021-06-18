@@ -1,0 +1,4 @@
+{"_id":"523b02b76487c8dbaeb4bf635f63db1f37e22760","packageName":"unsplash-js","version":"^6.3.0","dev":false,"layer":"global"}
+{"_id":"b4bb6e6a7b6231acb9f71b304edb2274693d8849","packageName":"telegraf","version":"^3.38.0","dev":false,"layer":"global"}
+{"_id":"b88d9b9e491403bfec08c19d605c33ef4ea80b17","packageName":"node-emoji","version":"^1.10.0","dev":false,"layer":"global"}
+{"_id":"c4e19e69dc0bdba0d9a64c948433a8e4e2ba848b","packageName":"node-fetch","version":"^2.6.1","dev":false,"layer":"global"}
